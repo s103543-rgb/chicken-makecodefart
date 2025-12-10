@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="UrFM*.)k=](ERGF3Me~[">mySprite</variable><variable type="KIND_SpriteKind" id="~{4Yc;G*n.7[gSL+f-/D">Player</variable><variable type="KIND_SpriteKind" id="Yv,~Mo%((elu}U7)wBb7">Projectile</variable><variable type="KIND_SpriteKind" id="]k%aO+])krLsH(7Ax^#g">Food</variable><variable type="KIND_SpriteKind" id="DG.{EEzi)(urCmPG_)A2">Enemy</variable></variables><block type="pxt-on-start" id="+EdwhS6y:eD-uMB2m=uK" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="5jh[FKR8+ZeYnh*81ru5"><field name="VAR" id="UrFM*.)k=](ERGF3Me~[">mySprite</field><value name="VALUE"><shadow type="math_number" id="6u?pwjPU@;n[y,bzJK~]"><field name="NUM">0</field></shadow><block type="spritescreate" id="vmxU:-x4g=1b-h=YPdv9"><value name="img"><shadow type="screen_image_picker" id="uheBV6#kp_!2;8LRW-7A"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . a a a . . . . . . 
+. . . . . a a a a a . . . . . . 
+. . . . . a a a a a . . . . . . 
+. . . . . . . f 8 a . . . . . . 
+. . . . 5 5 5 4 4 4 4 4 . . . . 
+. . . . . . 5 4 4 4 4 4 . 4 4 . 
+. . . . 5 5 5 4 4 4 4 4 4 4 . . 
+. . . . . 2 4 4 4 4 4 4 . 4 4 . 
+. . . . . . 4 4 4 4 4 4 . . . . 
+. . . . . . . . f . f . . . . . 
+. . . . . . . . f . f . . . . . 
+. . . . . . . f f . f f . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="t.f~%o+JK;o*~a=6X54C"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="set_current_tilemap" id="b6jm=(jZq8#CpY(K$Vgn"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="qxP@|/AzL;q=/Iu8.^fn"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level1"}}</data></shadow></value></block></next></block></statement></block></xml>
